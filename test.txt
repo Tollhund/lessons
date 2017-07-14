@@ -1,3 +1,4 @@
 Hello
 branch one
 lesson2 rebase
+post_rebase_txt_2
