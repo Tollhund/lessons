@@ -3,3 +3,4 @@ branch one
 lesson2 rebase
 post_rebase_txt_2
 rebase_txt_4
+GITHUB new Line
